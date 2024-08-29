@@ -6,7 +6,7 @@ Favorite Things about CS193 ⭐
 - Easy to read slides
 - Meeting other people with similar majors
 
-                            ╱|、  ?
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
+        ╱|、  ?
+      (˚ˎ 。7  
+       |、˜〵          
+       じしˍ,)ノ
